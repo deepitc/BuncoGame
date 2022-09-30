@@ -1,11 +1,5 @@
-
 // Name : Deepit Chandgothia, 
-// Assignment: 3
-// Assignment name: Bunco
-// 4/6/22
-// Used office hours help
-// Used evening mentor help
-// I confirm that the above list of sources is complete AND that I/we have not talked to anyone else (e.g., CSC 207 students) about the solution to this problem."
+// Project: Vending Machine
 
 import java.util.Scanner;
 
