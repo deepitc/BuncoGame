@@ -1,5 +1,5 @@
 // Name : Deepit Chandgothia, 
-// Project: Vending Machine
+// Project: Bunco Game
 
 import java.util.Scanner;
 
